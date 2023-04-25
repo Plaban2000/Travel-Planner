@@ -1,0 +1,83 @@
+/*dwarkadish*/
+#dwarkadish{
+    background-color: rgb(240, 211, 149);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#dwar{
+    color:rgb(150, 100, 25);
+}
+
+  #dwarimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Nageshwar Jyotirlinga*/
+#nageshwar{
+    background-color: rgb(212, 227, 227);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#nag{
+    color:#40403f;
+}
+
+  #nagimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Rukshmani Devi Temple*/
+  #rukshmini{
+    background-color: rgb(235, 146, 140);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#ruk{
+    color:#ca2313;
+}
+
+  #rukimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+    /*sudama setu*/
+    #sudama{
+        background-color: rgb(144, 228, 217);
+        height: 250px;
+        width: 750px;
+        font-style: italic;
+    }
+    #suda{
+        color:#05685a;
+    }
+      #sudamaimg{
+        margin-top: -21%;
+        margin-left: 64%;
+        margin-right: 50%;
+      }
+    
+
+      #button{
+        background-color: aliceblue;
+        padding: 12px;
+        cursor:pointer;
+        text-align: center;
+        font-size: 12px;
+        color:none;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+    #button:hover {
+        background-color: #121111;
+        color: rgb(232, 227, 227);
+        transition:0.5s;
+      }

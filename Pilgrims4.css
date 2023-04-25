@@ -1,0 +1,81 @@
+/*mata mansa*/
+#mansadevi{
+    background-color: rgb(185, 184, 181);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#mansa{
+    color:rgb(47, 47, 46);
+}
+
+  #mansaimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Har Ki Pauri Ganga Temple */
+#harkipouri{
+    background-color: rgb(240, 194, 149);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#har{
+    color:rgb(225, 135, 17);
+}
+
+  #harimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+    /*Gauri sankar Temple */
+#gaurishankar{
+    background-color: rgb(165, 226, 235);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#gauri{
+    color:rgb(9, 109, 114);
+}
+  #gauriimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+      /*Maha mritunjay*/
+#mahamrityun{
+    background-color: rgb(165, 235, 216);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#maha{
+    color:rgb(9, 114, 79);
+}
+
+  #mahaimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+  #button{
+    background-color: aliceblue;
+    padding: 12px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+#button:hover {
+    background-color: #121111;
+    color: rgb(232, 227, 227);
+    transition:0.5s;
+  }

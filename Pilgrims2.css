@@ -1,0 +1,83 @@
+/*traymkeshwar*/
+#trayambakeshwar{
+    background-color: rgb(188, 240, 149);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#tray{
+    color:rgb(83, 165, 28);
+}
+
+  #taryimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*traymkeshwar*/
+#venkateswara{
+    background-color: rgb(240, 149, 213);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#venkat{
+    color:rgb(141, 2, 134);
+}
+
+  #venkatimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*neelkanth*/
+#neelkantmahadev{
+    background-color: rgb(244, 244, 77);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#neelkanth{
+    color:rgb(130, 128, 15);
+}
+
+  #neelimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+   /*lakshman*/
+#lakshman{
+    background-color: rgb(221, 136, 128);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#laksh{
+    color:rgb(82, 20, 10);
+}
+
+  #lakshimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  #button{
+    background-color: aliceblue;
+    padding: 12px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#button:hover {
+    background-color: #121111;
+    color: rgb(232, 227, 227);
+    transition:0.5s;
+  }

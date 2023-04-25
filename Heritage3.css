@@ -1,0 +1,75 @@
+/*Humayun's tomb*/
+#humayun{
+    background-color: rgb(188, 240, 149);
+    font-family: 'Times New Roman', Times, serif;
+    height: 90%;
+    width: 60%;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 6px;
+}
+#hum{
+    color:rgb(83, 165, 28);
+}
+
+  #humimg{
+    margin-top: -28%;
+    margin-left: 70%;
+    margin-right: 50%;
+  }
+
+  /*Qutubminar*/
+#qutubminar{
+    background-color: rgb(238, 149, 240);
+    font-family: 'Times New Roman', Times, serif;
+    height: 90%;
+    width: 60%;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 6px;
+}
+#qutub{
+    color:rgb(114, 28, 109);
+}
+  #qutubimg{
+    margin-top: -28%;
+    margin-left: 70%;
+    margin-right: 50%;
+  }
+
+    /*RedFort*/
+#redfort{
+    background-color: rgb(240, 149, 149);
+    font-family: 'Times New Roman', Times, serif;
+    height: 90%;
+    width: 60%;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 6px;
+}
+#red{
+    color:rgb(155, 70, 34);
+}
+  #redimg{
+    margin-top: -30%;
+    margin-left: 70%;
+    margin-right: 50%;
+  }
+
+  /*button*/
+  #button{
+    background-color: aliceblue;
+    padding: 12px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+#button:hover {
+    background-color: #121111;
+    color: rgb(232, 227, 227);
+    transition:0.5s;
+  }
+  

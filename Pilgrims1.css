@@ -1,0 +1,100 @@
+/*almgir*/
+#alamgir{
+    background-color: rgb(188, 240, 149);
+    height: 270px;
+    width: 750px;
+    font-style: italic;
+}
+#alam{
+    color:rgb(83, 165, 28);
+}
+
+  #almimg{
+    margin-top: -23%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*assi ghat*/
+  #assighat{
+    background-color: rgb(239, 232, 156);
+    height: 270px;
+    width: 750px;
+    font-style: italic;
+}
+#assi{
+    color:rgb(151, 165, 28);
+}
+ 
+  #assiimg{
+    margin-top: -23%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+/*Bharat mata temple*/
+#bharatmata{
+    background-color: rgb(156, 160, 239);
+    height: 270px;
+    width: 750px;
+    font-style: italic;
+}
+#bharat{
+    color:rgb(34, 5, 150);
+}
+
+  #varatimg{
+    margin-top: -23%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+/*Dhaameswar*/
+#dashashwamedh{
+    background-color: rgb(239, 156, 236);
+    height: 270px;
+    width: 750px;
+    font-style: italic;
+}
+#dash{
+    color:rgb(119, 5, 150);
+}
+
+  #dashwaimg{
+    margin-top: -23%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Durga temple*/
+#durgamandir{
+    background-color: rgb(239, 171, 156);
+    height: 270px;
+    width: 750px;
+    font-style: italic;
+}
+#durga{
+    color:rgb(229, 48, 7);
+}
+  #durgaimg{
+    margin-top: -23%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  #button{
+    background-color: aliceblue;
+    padding: 12px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#button:hover {
+    background-color: #121111;
+    color: rgb(232, 227, 227);
+    transition:0.5s;
+  }
+  
+  

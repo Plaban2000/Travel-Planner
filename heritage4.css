@@ -1,0 +1,75 @@
+/*Khajuraho temples*/
+#khajuraho{
+    background-color: rgb(188, 240, 149);
+    font-family: 'Times New Roman', Times, serif;
+    height: 90%;
+    width: 60%;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 6px;
+}
+#khaju{
+    color:rgb(83, 165, 28);
+}
+
+  #khajuimg{
+    margin-top: -30%;
+    margin-left: 70%;
+    margin-right: 50%;
+  }
+
+  /*Buddhist temples*/
+#buddhist{
+    background-color: rgb(128, 127, 191);
+    font-family: 'Times New Roman', Times, serif;
+    height: 90%;
+    width: 60%;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 6px;
+}
+#bud{
+    color:rgb(26, 30, 95);
+}
+
+  #budimg{
+    margin-top: -27%;
+    margin-left: 70%;
+    margin-right: 50%;
+  }
+
+   /*Bhembhetka shelters*/
+#bhembhetka{
+    background-color: rgb(142, 230, 176);
+    font-family: 'Times New Roman', Times, serif;
+    height: 90%;
+    width: 60%;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 6px;
+}
+#bhem{
+    color:rgb(13, 104, 16);
+}
+  #bhemimg{
+    margin-top: -28%;
+    margin-left: 70%;
+    margin-right: 50%;
+  }
+
+  #button{
+    background-color: aliceblue;
+    padding: 12px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+#button:hover {
+    background-color: #121111;
+    color: rgb(232, 227, 227);
+    transition:0.5s;
+  }
+  

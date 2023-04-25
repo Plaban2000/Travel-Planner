@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: 'Lato', sans-serif;
+}
+.b3{
+  padding: 100px 100px;
+  margin-top: 3%;
+  margin-left: 3%;
+  background-image: url(h1.jpg);
+  background-size: cover;
+  border: 12px solid rgba(165, 42, 42, 0.667); 
+}
+.overlay {
+  height: 50%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-x: hidden;
+  transition: 0.6s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.6s;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
+</style>
+</head>
+<body>
+
+<div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <p style="font-family: 'Times New Roman', Times, serif; font-size: 25px; color: white;">
+    India is home to numerous heritage sites that reflect its rich and diverse cultural history. These sites include ancient temples, forts, palaces, monuments, and natural landmarks, 
+    such as mountains and lakes. 
+    The country is known for its UNESCO World Heritage Sites, including the iconic Taj Mahal, the Khajuraho Group of Monuments, and the Ajanta and Ellora Caves. 
+    India's heritage sites showcase the country's architectural marvels, intricate art, and craftsmanship, and provide a glimpse into its deep-rooted traditions and beliefs. 
+    Visiting these sites is a great way to learn about India's fascinating history and immerse oneself in its diverse culture.</p>
+  </div>
+</div>
+<box class="b3" onclick="openNav()"></box>
+<script>
+function openNav() {
+  document.getElementById("myNav").style.width = "100%";
+}
+function closeNav() {
+  document.getElementById("myNav").style.width = "0%";
+}
+</script> 
+</body>
+</html>

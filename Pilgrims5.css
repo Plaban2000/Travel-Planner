@@ -1,0 +1,83 @@
+/*Rameshwaram*/
+#ramnath{
+    background-color: rgb(238, 212, 162);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#ram{
+    color:rgb(156, 119, 9);
+}
+
+  #ramesimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*Nambu*/
+#nambu{
+    background-color: rgb(238, 194, 162);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#nam{
+    color:rgb(156, 78, 9);
+}
+
+  #nambuimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  /*dhanush*/
+#dhanushkondi{
+    background-color: rgb(238, 230, 162);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#dhanush{
+    color:rgb(88, 83, 2);
+}
+
+  #dhanuimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+    /*lakshmana*/
+#lakshmana{
+    background-color: rgb(180, 238, 162);
+    height: 250px;
+    width: 750px;
+    font-style: italic;
+}
+#laksh{
+    color:rgb(48, 156, 9);
+}
+ 
+  #lakshimg{
+    margin-top: -21%;
+    margin-left: 64%;
+    margin-right: 50%;
+  }
+
+  #button{
+    background-color: aliceblue;
+    padding: 12px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+#button:hover {
+    background-color: #121111;
+    color: rgb(232, 227, 227);
+    transition:0.5s;
+  }

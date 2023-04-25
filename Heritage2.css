@@ -1,0 +1,55 @@
+/*Kajiranga*/
+#kajiranga{
+    background-color: rgb(237, 172, 147);
+    font-family: 'Times New Roman', Times, serif;
+    height: 90%;
+    width: 60%;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 6px;
+}
+#kaji{
+    color:rgb(137, 56, 24);
+}
+
+  #kajiimg{
+    margin-top: -28%;
+    margin-left: 70%;
+    margin-right: 50%;
+  }
+
+
+  /*Manas Wildlife*/
+#manaswildlife{
+    background-color: rgb(149, 199, 240);
+    font-family: 'Times New Roman', Times, serif;
+    height: 90%;
+    width: 60%;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 6px;
+}
+#manas{
+    color:rgb(13, 68, 222);
+}
+  #manasimg{
+    margin-top: -31%;
+    margin-left: 70%;
+    margin-right: 50%;
+  }
+
+  #button{
+    background-color: aliceblue;
+    padding: 12px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 12px;
+    color:none;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+#button:hover {
+    background-color: #121111;
+    color: rgb(232, 227, 227);
+    transition:0.5s;
+  }

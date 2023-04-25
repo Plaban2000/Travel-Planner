@@ -1,0 +1,178 @@
+.h1{
+    font-size: 35px;
+    font-style: italic;
+    color: rgb(77, 14, 225);
+    margin: 10px;
+    
+}
+.varanasi{
+    font-style: italic;
+    font-size: medium;
+    height: 100px;
+    width: 400px;
+    margin-left:25% ;
+}
+.varas{
+    color: rgb(28, 5, 66);
+    }
+.varimg{
+    margin-top: -4%;
+    margin-left: 60%;
+    margin-right: 20%;
+}
+.box{
+    background-color: rgb(35, 10, 226);
+    padding :10px 20px;
+    margin: 20% 10% 10%;
+}
+/*rishikesh*/
+
+.rishi{
+    color: rgb(28, 5, 66);
+    }
+.rishikesh{
+    font-style: italic;
+    font-size: medium;
+    height: 100px;
+    width: 400px;
+    margin-top: -25%;
+    margin-left: 55%;
+    margin-right: 20%;
+
+}
+  .box1{
+    background-color: rgb(35, 10, 226);
+    padding :10px 20px;
+    margin: 20% 10% 10%;
+}
+
+/*Dwarka*/
+.dwarka{
+    font-style: italic;
+    font-size: medium;
+    height: 100px;
+    width: 400px;
+    margin-left:20% ;
+}
+.dwar{
+    color: rgb(28, 5, 66);
+    }
+.dwarimg{
+    margin-top: -4%;
+    margin-left: 60%;
+    margin-right: 20%;
+}
+.box{
+    background-color: rgb(35, 10, 226);
+    padding :10px 20px;
+    margin: 15% 10% 10%;
+}
+/*haridwar*/
+.hariimg{
+    margin-top: -10px ;
+    margin-left: 250px;
+}
+.hari{
+    color: rgb(28, 5, 66);
+    }
+.haridwar{
+    font-style: italic;
+    font-size: medium;
+    height: 100px;
+    width: 400px;
+    margin-top: -30%;
+    margin-left: 55%;
+    margin-right: 20%;
+
+}
+  .box1{
+    background-color: rgb(35, 10, 226);
+    padding :10px 20px;
+    margin: 30% 10% 10%;
+}
+
+/*Rameshwaram*/
+.rameshewaram{
+    font-style: italic;
+    font-size: medium;
+    height: 100px;
+    width: 400px;
+    margin-left:20% ;
+    margin-top: 5%;
+}
+.rama{
+    color: rgb(28, 5, 66);
+    }
+.ramaimg{
+    margin-top: -10%;
+    margin-left: 60%;
+    margin-right: 20%;
+}
+
+
+.button-85 {
+  padding: 0.6em 2em;
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background: #111;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-85:before {
+  content: "";
+  background: linear-gradient(
+    45deg,
+    #ff0000,
+    #ff7300,
+    #fffb00,
+    #48ff00,
+    #00ffd5,
+    #002bff,
+    #7a00ff,
+    #ff00c8,
+    #ff0000
+  );
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  animation: glowing-button-85 20s linear infinite;
+  transition: opacity 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+@keyframes glowing-button-85 {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+.button-85:after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #222;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
